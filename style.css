@@ -1,0 +1,23 @@
+.container{
+  margin-bottom: 100px;
+}
+.or-bg{
+  background-color: #fceae8;
+  border-radius: 5px;
+}
+.carousel-item{
+  padding: 20px 40px;
+}
+.price{
+  color: #ff136f;
+  margin-bottom: 20px;
+}
+.buynow{
+  background-image: linear-gradient(#ff589b, #ff136f);
+  color: white;
+  font-weight: 600;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-top: 10px;
+}
